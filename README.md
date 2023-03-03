@@ -6,7 +6,7 @@
 
 <!-- Section 0 -->
 <p align='justify'>
-I am a senior computer engineering student at Faculty of Engineering Cairo University, and I am passionate about the art of problem-solving. As a candidate master at Codeforces, I have developed strong skills in data structures and algorithms. My love for this area of computer science has also led me to explore machine learning, particularly in the field of natural language processing. Additionally, I enjoy developing robust backends that can handle complex systems. I am always eager to learn and take on new challenges to push my skills even further.
+I am a senior computer engineering student at Faculty of Engineering Cairo University, and I am passionate about the art of problem-solving. As a candidate master at Codeforces, I have developed strong skills in data structures and algorithms. My love for this area of computer science has also led me to explore machine learning, particularly the field of natural language processing. This area of computer science fascinates me as it offers boundless opportunities for innovation and creative problem-solving. Additionally, I enjoy developing robust backends that can handle complex systems. I am always eager to learn and take on new challenges to push my skills even further.
 </p>
 
 <!-- Section 1 -->
