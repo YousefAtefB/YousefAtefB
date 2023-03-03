@@ -121,6 +121,10 @@ I am a senior computer engineering student at Faculty of Engineering Cairo Unive
 	<a href="https://www.linkedin.com/in/YousefAtef/">
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />
 </a>
+</a>
+	<a href="https://codeforces.com/profile/batyousef">
+	<img src="./assets/codeforces.svg" width="50" title="Codeforces" />
+</a>
 	<!-- <a href="https://stackexchange.com/users/18128205/mohamed-saad">
 	<img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="50" title="Stack Exchange" />
 </a>
