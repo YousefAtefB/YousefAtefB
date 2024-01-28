@@ -24,7 +24,11 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
 	
   <a href="https://github.com/TheBotiverse/Botiverse" >
-      <img height="76" src="https://i.imgur.com/5Lje2Ji.png"/>
+      <img height="100" src="https://i.imgur.com/5Lje2Ji.png"/>
+  </a>
+
+  <a href="https://github.com/CMPLR-Technologies">
+    <img height="100" src="https://i.imgur.com/A83fqc9.png"/>
   </a>
 	
 <br>
