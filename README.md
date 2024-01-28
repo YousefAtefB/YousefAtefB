@@ -5,7 +5,7 @@
 </div>
 
 <!-- Section 0 -->
-<p align='justify'>
+<p align='center'>
 I'm a computer engineer with hands-on experience in machine learning, NLP, and LLMs. I have a strong background in problem-solving, advanced data structures, and algorithms. I am always eager to learn and take on new challenges to push my skills even further.
 </p>
 
