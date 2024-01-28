@@ -30,6 +30,12 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
   <a href="https://github.com/CMPLR-Technologies">
     <img height="100" src="https://i.imgur.com/A83fqc9.png"/>
   </a>
+
+  <a href="https://github.com/hoskillua/Coach-ina" >
+     <img height="100" src="https://user-images.githubusercontent.com/56788883/154840069-82901906-ec29-41e5-a0e7-c60a2ab66d2f.png"/>
+  </a>
+
+  
 	
 <br>
 More/other projects can be found on my resume.
