@@ -20,6 +20,17 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
 
 </div>
 
+<div align='center'> 
+  <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
+	
+  <a href="https://github.com/TheBotiverse/Botiverse" >
+      <img height="76" src="https://i.imgur.com/5Lje2Ji.png"/>
+  </a>
+	
+<br>
+More/other projects can be found on my resume.
+</div>
+
 <!-- Section 2 -->
 <div align='center'>
 <h2> 👨‍💻 Languages & Technologies & Platforms 👨‍💻 </h2>
