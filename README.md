@@ -27,8 +27,8 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
   
   <br>
 
-  <a href="https://github.com/CMPLR-Technologies">
-    <img height="100" src="./assets/cmplr.png"/>
+  <a href="https://github.com/CMPLR-Technologies" style="border-radius: 10px; overflow: hidden; display: inline-block;">
+     <img height="100" src="./assets/cmplr.png" style="border-radius: 10px;" />
   </a>
   
   <br>
@@ -37,7 +37,7 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
      <img height="100" src="https://user-images.githubusercontent.com/56788883/154840069-82901906-ec29-41e5-a0e7-c60a2ab66d2f.png"/>
   </a>
 
-  
+
 	
 <br>
 More/other projects can be found on my resume.
