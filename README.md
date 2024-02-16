@@ -27,14 +27,14 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
   
   <br>
 
-  <a href="https://github.com/CMPLR-Technologies" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-     <img height="100" src="./assets/cmplr.png" style="border-radius: 10px;" />
+  <a href="https://github.com/CMPLR-Technologies">
+     <img height="120" src="./assets/cmplr.png"/>
   </a>
   
   <br>
 
   <a href="https://github.com/hoskillua/Coach-ina" >
-     <img height="100" src="https://user-images.githubusercontent.com/56788883/154840069-82901906-ec29-41e5-a0e7-c60a2ab66d2f.png"/>
+     <img height="100" src="./assets/Coach-ina.png", style="border-radius: 10px;"/>
   </a>
 
 
