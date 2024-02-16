@@ -43,6 +43,12 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
      <img height="110" src="./assets/soccer physics.png" style="border-radius: 10px;"/>
   </a>
 
+  <br>
+
+  <a href="https://github.com/mostafa-elgendy22/Crazy-Taxi" >
+     <img height="110" src="./assets/crazy taxi.png" style="border-radius: 10px;"/>
+  </a>
+
 
 
   
