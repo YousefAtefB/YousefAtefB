@@ -22,31 +22,31 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
 	
   <a href="https://github.com/TheBotiverse/Botiverse" >
-      <img height="100" src="https://i.imgur.com/5Lje2Ji.png"/>
+      <img height="180" src="https://i.imgur.com/5Lje2Ji.png"/>
   </a>
   
   <br>
 
   <a href="https://github.com/CMPLR-Technologies">
-     <img height="110" src="./assets/cmplr.png" style="border-radius: 10px;"/>
+     <img height="180" src="./assets/cmplr.png" style="border-radius: 10px;"/>
   </a>
   
   <br>
 
   <a href="https://github.com/hoskillua/Coach-ina" >
-     <img height="110" src="./assets/Coach-ina.png" style="border-radius: 10px;"/>
+     <img height="180" src="./assets/Coach-ina.png" style="border-radius: 10px;"/>
   </a>
 
   <br>
 
   <a href="https://github.com/Yousif-Ahmed/2-PLayer-GAME-soccer-game-" >
-     <img height="110" src="./assets/soccer physics.png" style="border-radius: 10px;"/>
+     <img height="180" src="./assets/soccer physics.png" style="border-radius: 10px;"/>
   </a>
 
   <br>
 
   <a href="https://github.com/mostafa-elgendy22/Crazy-Taxi" >
-     <img height="110" src="./assets/crazy taxi.png" style="border-radius: 10px;"/>
+     <img height="180" src="./assets/crazy taxi.png" style="border-radius: 10px;"/>
   </a>
 
 
