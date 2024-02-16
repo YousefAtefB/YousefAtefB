@@ -172,6 +172,14 @@ More/other projects can be found on my resume.
 
 </div>
 
+## Check out Recent Blogs
+
+<div align='center'>
+    <a target="_blank" href="http://tech.raisa.com/cost-efficient-text-to-sql-chatbot-using-chatgpt/" >
+        <img alt="Cost-Efficient Text-to-SQL Chatbot Using ChatGPT LLMs" src="./assets/text2sql.jpeg"/>
+    </a>
+</div>
+
 <!-- Section 5 -->
 <div align='center'>
 	<h2> 💖 Thank You 💖 </h2>
