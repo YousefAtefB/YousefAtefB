@@ -18,7 +18,7 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
 
 </div>
 
-<div align='center'> 
+<div align='center'>
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
 	
   <a href="https://github.com/TheBotiverse/Botiverse" >
@@ -37,6 +37,14 @@ I'm a computer engineer with hands-on experience in machine learning, NLP, and L
      <img height="120" src="./assets/Coach-ina.png" style="border-radius: 10px;"/>
   </a>
 
+  <br>
+
+  <a href="https://github.com/Yousif-Ahmed/2-PLayer-GAME-soccer-game-" >
+     <img height="120" src="./assets/soccer physics.png" style="border-radius: 10px;"/>
+  </a>
+
+
+  
 
 	
 <br>
